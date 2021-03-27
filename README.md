@@ -1,1 +1,1 @@
-# Moregames
+# Box Class
